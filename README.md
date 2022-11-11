@@ -3,7 +3,7 @@
 
 
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="./assets/line-neon.gif" width="100%">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonanm03&label=Profile%20views&color=0e75b6&style=flat" alt="leonanm03" /> </p>
@@ -39,7 +39,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="./assets/line-neon.gif" width="100%">
 
 <!--
 **leonanm03/leonanm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
