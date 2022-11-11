@@ -1,5 +1,6 @@
-### Hi there 👋
-<h1 align="center">Leonan Martins</h3>
+
+<!-- GIF HEADER -->
+<!-- <img src="./assets/header.gif" height="150px" width="100%"> -->
 
 
 <!-- RAINBOW LINE TOP -->
