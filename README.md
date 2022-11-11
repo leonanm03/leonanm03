@@ -36,7 +36,7 @@
 </div>
 
 <!-- GIF FOOTER -->
-<img src="./assets/footer.gif">
+<img src="./assets/footer.gif" height="250px" width="100%">
 
 <!-- RAINBOW LINE BOT -->
 <img src="./assets/line-neon.gif" width="100%">
