@@ -1,6 +1,6 @@
 
 <!-- GIF HEADER -->
-<!-- <img src="./assets/header.gif"  width="100%">  -->
+<img src="./assets/header.gif"  width="100%">
 
 
 <!-- RAINBOW LINE TOP -->
