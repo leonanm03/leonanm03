@@ -9,12 +9,10 @@
 <!-- VISITAS AO PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonanm03&label=Profile%20views&color=0e75b6&style=flat" alt="leonanm03" /> </p>
 
-<!-- TROFEOS GITHUB -->
+<!-- TROFEIS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonanm03&theme=dracula&column=7" alt="leonanm03" /></a> </p>
 
 <!-- BREVE DESCRIÇÃO -->
-- 📚 I am currently studying at [Federal Institute of Santa Catarina](https://www.ifsc.edu.br/)
-
 - 🌱 I am currently in the race **Web Full Stack Development**
 
 - 📫 How to reach me **leonanm04@gmail.com**
