@@ -100,12 +100,18 @@
   <img width="12" /> Linux
         </td>
         <td>
+  <img src="./assets/ajax.png" height="40" alt="Ajax logo"  />
+  <img width="12" /> Ajax
         </td>
-        <td>
+        <td>  
+  <img src="./assets/es6.png" height="40" alt="Ecma Script 6 logo"  />
+  <img width="12" /> ECMAScript 6
         </td>
       </tr>
       <tr>
-        <td>
+        <td>          
+  <img src="./assets/sql.png" height="40" alt="SQL logo"  />
+  <img width="12" /> SQL
         </td>
         <td>
         </td>
