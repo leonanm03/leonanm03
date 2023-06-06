@@ -27,9 +27,6 @@
 <!-- LINGUAGENS E FERRAMENTAS -->
 <h3 align="left">Languages and Tools:</h3>
 
-<br clear="both">
-
-
   <table>
     <tbody>
       <tr>
