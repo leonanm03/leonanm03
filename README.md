@@ -131,19 +131,22 @@
           <img width="12" /> Next.js
         </td>
         <td>
+          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+          <img width="12" /> Visual Studio Code
         </td>
         <td>
         </td>
       </tr>
     </tbody>
   </table>
-
-</p>
-
+  
+<br clear="both">
+<br clear="both">
+<br clear="both">
 <!-- STATUS E LINGUAGENS MAIS USADAS -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=leonanm03&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<div style="display:grid;align-items:center;justify-content:center">  
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonanm03&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=leonanm03&theme=gotham&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 
 <!-- GIF FOOTER -->
