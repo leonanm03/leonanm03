@@ -15,7 +15,7 @@
 <!-- BREVE DESCRIÇÃO -->
 - 🌱 I am currently in the race **Web Full Stack Development**
 
-- 🔭 I’m currently working on <a href="https://github.com/leonanm03/Estrangeum">**Estrangeum**</a>, wich is an authoral project about a Virtual Museum of estrange objects
+- 🔭 I’m currently working as volunteer on <a href="https://github.com/Is-It-Safe">**Is It Safe?**</a>.
 
 - 📫 How to reach me **leonanm04@gmail.com**
 
