@@ -15,7 +15,7 @@
 <!-- BREVE DESCRIÇÃO -->
 - 🌱 I am currently in the race **Web Full Stack Development**
 
-- 🔭 I’m currently working as volunteer on <a href="https://github.com/Is-It-Safe">**Is It Safe?**</a>.
+- 🔭 I’m currently working as FullStack Developer on <a href="https://fivelabs.com.br/">**Fivelabs**</a> and as volunteer on <a href="https://github.com/Is-It-Safe">**Is It Safe?**</a>.
 
 - 📫 How to reach me **leonanm04@gmail.com**
 
